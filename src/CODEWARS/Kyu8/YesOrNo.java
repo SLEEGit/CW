@@ -1,13 +1,11 @@
 package CODEWARS.Kyu8;
 
 
-class YesOrNoq
-{
+class YesOrNoq {
     public static String boolToWord(boolean b)
     {
         return b ? "Yes" : "No";
     }
-
 }
 
 

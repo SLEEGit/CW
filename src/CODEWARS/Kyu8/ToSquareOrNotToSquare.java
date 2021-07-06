@@ -1,6 +1,7 @@
 package CODEWARS.Kyu8;
 
 import java.util.Arrays;
+import java.util.stream.Collectors;
 
 class Kata11
 {

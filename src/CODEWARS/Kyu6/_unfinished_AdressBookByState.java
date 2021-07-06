@@ -1,8 +1,6 @@
 package CODEWARS.Kyu6;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 class Person {
     private String name;
